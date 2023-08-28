@@ -9,7 +9,8 @@ This is my python code. With this code, you can:
   If sum of 3 dice larger than 10, The result is 
   "Tai"; smaller or equal 10 is "Xiu".This program 
   use randrange to take random 3 dice. Moreover I
-  provide to player amount of money after each turn.
+  provide to player amount of money and update
+  after each turn.
 ## Libaries that I used:
   - Time
   - Ramdom
